@@ -33,7 +33,7 @@ const App = () => {
                      title={data.title}
                      content={data.content}
                     >
-                       {index!=section_data.length-1? <hr /> : ""}
+                       {index!=section_data.length-1? <hr /> :""}
                     </Section>
                     )
                 }
