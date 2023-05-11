@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+
+
+.navbar{
+    background-color: rgb(173, 216, 230);
+    text-align: center;
+    padding: 0;
+}
+
+.navbar .links a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.about h1, .section h1{
+
+    text-align: center;
+    margin: 20px;
+    font-size: 40px;
+    color:rgb(11, 87, 112);
+}
+hr{
+    margin-top: 10px;
+}
